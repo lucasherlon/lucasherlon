@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Herlon</h1>
-<h3 align="center">A Computer Science student from Brazil, interest in OOP, backend technologies and low level languages</h3>
+<h3 align="center">A Computer Science student from Brazil, interest in OOP, backend technologies and low-level languages</h3>
 
 - 🌱 I’m currently learning **Java and Rust**
 
