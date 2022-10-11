@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Lucas Herlon</h2>
 <h4 align="center">A Computer Science student from Brazil, interested in OOP, backend technologies and low-level languages</h4>
 
-- 🌱 I’m currently learning **Java and Rust**
+- 🌱 I’m currently learning **C and Rust**
 
-- 💬 Ask me about **Python, HTML and C**
+- 💬 Ask me about **Python and Java**
 
 - 📫 How to reach me **lucasherlondsmc@gmail.com**
 
