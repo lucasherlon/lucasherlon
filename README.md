@@ -2,7 +2,7 @@
 <h4 align="center">A Computer Science student from Brazil, interested in OOP, backend technologies, low-level programming and operating systems</h4>
 
 
-- 📫 How to reach me **lucasherlondsmc@gmail.com**
+- 📫 How to reach me: **lucasherlondsmc@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
