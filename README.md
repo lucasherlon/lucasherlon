@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Lucas Herlon</h2>
-<h4 align="center">A Computer Science student from Brazil, interested in web development and functional programming</h4>
+<h4 align="center">A Computer Science student from Brazil, always interested in learning new things</h4>
 
 
 - 📫 How to reach me: **lucasherlondsmc@gmail.com**
