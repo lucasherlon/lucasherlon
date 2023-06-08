@@ -3,13 +3,12 @@
 
 
 - 📫 How to reach me: **lucasherlondsmc@gmail.com**
+- My youtube channel: <a href="https://www.youtube.com/channel/UCgZkBCnmBhbPc4lWsRXhZWw">@lucasherlon4396</a>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://medium.com/@lucasherlondsmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lucasherlondsmc" height="30" width="40" /></a>
 </p>
-<h4 align="left">My youtube channel:</h4>
-<p><a href="https://www.youtube.com/channel/UCgZkBCnmBhbPc4lWsRXhZWw">@lucasherlon4396</a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasherlon&show_icons=true&theme=dark&locale=en&layout=compact" alt="lucasherlon" /></p>
 
