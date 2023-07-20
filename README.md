@@ -2,10 +2,10 @@
 require 'personalInfo.php';
 
 $aboutMe = [
-  name => "Lucas Herlon",
-  description => "Computer Science student",
-  programmingLanguages => ["PHP", "JavaScript", "Java"],
-  frameworks => ["Vue", "Laravel"]
+  'name' => 'Lucas Herlon',
+  'description' => 'Computer Science student',
+  'programmingLanguages' => ['PHP', 'JavaScript', 'Java'],
+  frameworks => ['Vue', 'Laravel']
 ];
 ```
 <h3>Languages and tools</h3>
