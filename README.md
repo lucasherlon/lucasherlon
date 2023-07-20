@@ -1,20 +1,44 @@
-<h2 align="center">Hi 👋, I'm Lucas Herlon</h2>
-<h4 align="center">A Computer Science student from Brazil, always interested in learning new things. </h4>
+```php
+require personalInfo;
 
+$aboutMe = [
+  name => "Lucas Herlon",
+  description => "Computer Science student",
+  programmingLanguages => ["PHP", "JavaScript", "Java"],
+  frameworks => ["Vue", "Laravel"]
+];
+```
+<h3>Languages and tools</h3>
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
 
-- 📫 How to reach me: **lucasherlondsmc@gmail.com**
-- My youtube channel: <a href="https://www.youtube.com/channel/UCgZkBCnmBhbPc4lWsRXhZWw">@lucasherlon4396</a>
+<div>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</div>
 
-<h4 align="left">Connect with me:</h4>
+<h3>Social</h3>
 <p align="left">
-<a href="https://medium.com/@lucasherlondsmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lucasherlondsmc" height="30" width="40" /></a>
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=lucasherlondsmc@gmail.com" /></a>
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-herlon-6596aa273/" />
+  </a>
+    </a>
+  <a href="#" alt="Medium">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@lucasherlondsmc" /></a>
+  <a href="#" alt="Youtube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.linkedin.com/in/lucas-herlon-6596aa273/" />
+
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasherlon&show_icons=true&theme=dark&locale=en&layout=compact" alt="lucasherlon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasherlon&show_icons=true&theme=dark&locale=en" alt="lucasherlon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasherlon&theme=dark" alt="lucasherlon" /></p>
-
 
 
