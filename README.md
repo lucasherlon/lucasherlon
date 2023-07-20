@@ -30,15 +30,20 @@ $aboutMe = [
 <h3>Social</h3>
 <p align="left">
   <a href="mailto:lucasherlondsmc@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=lucasherlondsmc@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=lucasherlondsmc@gmail.com" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/lucas-herlon-6596aa273/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-herlon-6596aa273/" />
   </a>
-    </a>
+  
   <a href="https://medium.com/@lucasherlondsmc" alt="Medium">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@lucasherlondsmc" /></a>
-  <a href="=https://www.linkedin.com/in/lucas-herlon-6596aa273/" alt="Youtube">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.linkedin.com/in/lucas-herlon-6596aa273/" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@lucasherlondsmc" />
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCgZkBCnmBhbPc4lWsRXhZWw" alt="Youtube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgZkBCnmBhbPc4lWsRXhZWw" />
+  </a>
 </p>
 
 
