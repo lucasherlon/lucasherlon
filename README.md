@@ -1,5 +1,5 @@
 ```php
-require PersonalInfo.php;
+require personalInfo.php;
 
 $aboutMe = [
   name => "Lucas Herlon",
