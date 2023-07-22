@@ -1,15 +1,13 @@
 <h2>Hey There!</h2>
 
-```php
-<?php
-require 'personalInfo.php';
-
-$aboutMe = [
-  'name' => 'Lucas Herlon',
-  'description' => 'Computer Science student',
-  'programmingLanguages' => ['PHP', 'JavaScript', 'Java'],
-  'frameworks' => ['Vue', 'Laravel']
-];
+```jsx
+export default function WhoIsMe(){
+  return (
+    <>
+      <p>A computer science student who enjoys building web interfaces and CRUDs.</p>
+    </>
+  );
+}
 ```
 <h3>Languages and tools</h3>
 <div>
@@ -25,8 +23,7 @@ $aboutMe = [
 
 <div>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  />
 </div>
 
 <h3>Social</h3>
