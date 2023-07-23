@@ -3,13 +3,13 @@
 ```jsx
 export default function WhoIsMe(){
   return (
-    <>
-      <p>A computer science student who builds web interfaces and CRUDs.</p>
-      <p>Brazilian, 27 years old</p>
-      <p>Neurodivergent (autistic)</p>
-      <p>Front-end enjoyer</p>
-      <p>Currently i am studying Nextjs</p>
-    </>
+    <ul>
+      <li>A computer science student who builds web interfaces and CRUDs.</li>
+      <li>Brazilian, 27 years old</li>
+      <li>Neurodivergent (autistic)</li>
+      <li>Front-end enjoyer</li>
+      <li>Currently i am studying Nextjs</li>
+    </ul>
   );
 }
 ```
