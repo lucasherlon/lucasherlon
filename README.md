@@ -4,7 +4,11 @@
 export default function WhoIsMe(){
   return (
     <>
-      <p>A computer science student who enjoys building web interfaces and CRUDs.</p>
+      <p>A computer science student who builds web interfaces and CRUDs.</p>
+      <p>brazilian, 27 years old</p>
+      <p>neurodivergent (autistic)</p>
+      <p>Front-end enjoyer</p>
+      <p>Currently i am studying React Native</p>
     </>
   );
 }
