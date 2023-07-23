@@ -6,8 +6,7 @@ export default function WhoIsMe(){
     <ul>
       <li>A computer science student who builds web interfaces and CRUDs.</li>
       <li>Brazilian, 27 years old</li>
-      <li>Neurodivergent (autistic)</li>
-      <li>Front-end enjoyer</li>
+      <li>Neurodivergent (autistic)</li>>
       <li>Currently i am studying Nextjs</li>
     </ul>
   );
