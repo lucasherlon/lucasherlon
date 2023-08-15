@@ -12,7 +12,7 @@ export default function WhoIsMe(){
   );
 }
 ```
-<h3>Languages and tools that I study</h3>
+<h3>Languages and tools</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,7 +21,6 @@ export default function WhoIsMe(){
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </div>
 
 <div>
