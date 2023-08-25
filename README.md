@@ -1,17 +1,17 @@
-<h2>Hey There!</h2>
+<h2 align="center">Lucas Herlon</h2>
+<div align="center">
+<b>Computer Science student | Web development enthusiast </b>
+<br>
+<br>
 
-```jsx
-export default function WhoIsMe(){
-  return (
-    <ul>
-      <li>A computer science student who builds user interfaces.</li>
-      <li>Brazilian, 27 years old</li>
-      <li>Neurodivergent (autistic)</li>>
-      <li>Currently i am studying Nextjs</li>
-    </ul>
-  );
-}
-```
+<p><i>
+    Passionate for coding and problem solving, I am always looking for improve my current skills and discover new things
+</i></p>
+
+</div>
+
+
+
 <h3>Languages and tools</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
