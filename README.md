@@ -3,11 +3,9 @@
 <b>Computer Science student | Web development enthusiast </b>
 <br>
 <br>
-
 <p><i>
-    Passionate for coding and problem solving, I am always looking for improve my current skills and discover new things
+    Passionate for coding and problem solving.
 </i></p>
-
 </div>
 
 
