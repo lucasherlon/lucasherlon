@@ -1,6 +1,6 @@
 <h2 align="center">Lucas Herlon</h2>
 <div align="center">
-<b>Computer Science student </b>
+<b>Computer Science student passionated for problem solving </b>
 <br>
 <br>
 </div>
