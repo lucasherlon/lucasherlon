@@ -1,12 +1,10 @@
 <h2 align="center">Lucas Herlon</h2>
 <div align="center">
-<b>Computer Science student | Web development enthusiast </b>
+<b>Computer Science student </b>
 <br>
 <br>
-<p><i>
-    Passionate for coding and problem solving.
-</i></p>
 </div>
+
 
 
 
