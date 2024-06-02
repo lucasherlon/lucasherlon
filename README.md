@@ -1,12 +1,11 @@
 <h2 align="center">Lucas Herlon</h2>
 <div align="center">
-<b>Computer Science student passionated for problem solving </b>
-<br>
 <br>
 </div>
 
-
-
+<di>
+   <img src="https://s10.gifyu.com/images/SYsG4.gif" />
+</div>
 
 <h3>Languages and tools</h3>
 <!--
