@@ -4,7 +4,7 @@
 </div>
 
 <di>
-   <img src="https://s10.gifyu.com/images/SYsG4.gif" />
+   <img src="https://github.com/lucasherlon/lucasherlon/blob/main/readme.gif?raw=true" />
 </div>
 
 <h3>Languages and tools</h3>
